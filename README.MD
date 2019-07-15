@@ -2,9 +2,9 @@
 - [x] mouse usbhid
 - [x] keyboard AT keyboard
 - [x] touchpad ps/2 synaptics
-- [x] webcam hid-chicony
-- [x] usb 2.0
-- [x] usb 3.0
+- [x] webcam hid-chicony uvcvideo
+- [x] usb 2.0 ehci
+- [x] usb 3.0 xhci
 - [x] gfxcard intel vga hd 5500 i915
 - [x] cpu intel x86_64 GenuineIntel
 - [x] ethernet realtek r8169
@@ -12,3 +12,4 @@
 - [x] wifi qualcomm atheros at9k
 - [x] audio intel-hda-realtek
 - [x] audio intel-hda-hdmi
+- [x] disk sata ahci sd

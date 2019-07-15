@@ -5,7 +5,8 @@
 - [x] webcam hid-chicony
 - [x] usb 2.0
 - [x] usb 3.0
-- [x] intel vga hd 5500
+- [x] gfxcard intel vga hd 5500 i915
+- [x] cpu intel x86_64 GenuineIntel
 - [x] ethernet realtek r8169
 - [x] ethernet android usb net share
 - [x] wifi qualcomm atheros at9k

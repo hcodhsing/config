@@ -1,13 +1,13 @@
-- [ ] bluetooth
-- [x] mouse usb
-- [x] keyboard at
-- [x] touchpad ps/2
+- [ ] bluetooth (abandoned)
+- [x] mouse usbhid
+- [x] keyboard AT keyboard
+- [x] touchpad ps/2 synaptics
 - [x] webcam hid-chicony
 - [x] usb 2.0
 - [x] usb 3.0
 - [x] intel vga hd 5500
-- [x] Ethernet Realtek r8169
-- [x] Ethernet android usb net share
+- [x] ethernet realtek r8169
+- [x] ethernet android usb net share
 - [x] wifi qualcomm atheros at9k
-- [x] audio intel hda
-- [x] audio hdmi
+- [x] audio intel-hda-realtek
+- [x] audio intel-hda-hdmi
